@@ -1,2 +1,2 @@
 # backEND-
-This is repository to practice DJANGO!!!
+This is repository to practice DJANGO!!! (и немного Flask)
